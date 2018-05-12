@@ -1,0 +1,36 @@
+_repo: Bel-Ami--A-Ladies-Man---13-The-Works-of-Guy-de-Maupassant-Vol.-6_33928
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2010-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Journalists -- Fiction'
+- !lcsh 'Seduction -- Fiction'
+- !lcsh 'Paris (France) -- History -- 1870-1940 -- Fiction'
+- !lcsh 'France -- Politics and government -- 1870-1940 -- Fiction'
+title: "Bel Ami (A Ladies' Man)\r\nThe Works of Guy de Maupassant, Vol. 6"
+url: http://www.gutenberg.org/ebooks/33928
